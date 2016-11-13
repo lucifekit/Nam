@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+
+table#add-cat{
+	width:938px;
+	height:auto;
+	}
+	
+table#add-cat tr td{
+	padding-bottom:10px;
+	}
+	
+table#add-cat tr td label{
+	font-weight:bold;
+	color:#840000;
+	}		
+
+table#add-cat tr td input[type="text"]{
+	width:300px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

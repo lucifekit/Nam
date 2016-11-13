@@ -1,0 +1,5 @@
+#rewrite link website
+RewriteEngine On
+RewriteRule "^index.html$" "index.php"
+RewriteRule "^([a-zA-Z0-9-]+).html$" "index.php?page_layout=$1"
+RewriteRule "^chitietsp/([0-9]+)/([a-zA-Z0-9-]+).html$" "index.php?page_layout=chitietsp&id_sp=$1&ten_sp=$2"

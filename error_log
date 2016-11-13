@@ -1,0 +1,132 @@
+[23-Aug-2016 08:54:00 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/nhdieeub/public_html/dsv/cauhinh/ketnoi.php on line 7
+[23-Aug-2016 08:57:17 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/nhdieeub/public_html/cauhinh/ketnoi.php on line 7
+[23-Aug-2016 09:09:04 UTC] PHP Fatal error:  Call to undefined function var_dmo() in /home/nhdieeub/public_html/cauhinh/ketnoi.php on line 10
+[23-Aug-2016 09:09:06 UTC] PHP Fatal error:  Call to undefined function var_dmo() in /home/nhdieeub/public_html/cauhinh/ketnoi.php on line 10
+[23-Aug-2016 09:13:08 UTC] PHP Parse error:  syntax error, unexpected 'database' (T_STRING), expecting ',' or ';' in /home/nhdieeub/public_html/cauhinh/ketnoi.php on line 14
+[23-Aug-2016 09:13:11 UTC] PHP Parse error:  syntax error, unexpected 'database' (T_STRING), expecting ',' or ';' in /home/nhdieeub/public_html/cauhinh/ketnoi.php on line 14
+[23-Aug-2016 09:13:12 UTC] PHP Parse error:  syntax error, unexpected 'database' (T_STRING), expecting ',' or ';' in /home/nhdieeub/public_html/cauhinh/ketnoi.php on line 14
+[24-Aug-2016 09:14:52 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhdieeub/public_html/baogia.php on line 15
+[26-Aug-2016 13:07:31 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:07:33 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:07:33 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:07:36 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:07:36 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:07:38 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:07:40 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:07:43 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:07:46 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:07:51 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:07:54 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:07:56 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:07:59 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:08:02 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:08:04 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:08:10 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:08:12 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:08:15 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:08:20 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:08:22 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:08:25 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:08:27 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:08:30 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:08:32 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:08:34 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:08:37 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:08:40 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:08:47 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:08:49 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:08:51 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:08:57 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:08:59 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:09:01 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:09:03 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:09:05 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:09:09 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:09:12 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:09:17 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:09:20 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:09:24 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:09:27 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:09:34 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:09:36 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:09:38 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:09:43 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:09:46 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:09:49 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:09:56 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:09:58 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:10:08 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:10:10 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:10:10 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:10:12 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:10:13 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:10:21 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:10:28 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:10:31 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:10:34 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:10:36 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:10:39 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:10:42 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:10:44 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:10:50 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:10:52 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:10:55 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:10:58 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:11:00 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:11:03 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:11:05 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:11:08 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:11:10 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:11:13 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:11:19 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:11:21 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:11:28 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:11:30 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:11:33 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:11:36 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:11:41 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:11:44 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:11:47 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:11:51 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:11:55 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:11:58 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:12:01 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:12:04 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:12:06 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:12:10 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:13:33 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:13:34 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[26-Aug-2016 13:18:53 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nhdieeub/public_html/baogia.php on line 25
+[01-Sep-2016 03:58:04 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhdieeub/public_html/baogia.php on line 16
+[01-Sep-2016 03:58:04 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhdieeub/public_html/baogia.php on line 16
+[01-Sep-2016 03:58:06 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhdieeub/public_html/baogia.php on line 16
+[01-Sep-2016 03:58:07 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhdieeub/public_html/baogia.php on line 16
+[01-Sep-2016 03:58:09 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhdieeub/public_html/baogia.php on line 16
+[01-Sep-2016 03:58:12 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhdieeub/public_html/baogia.php on line 16
+[01-Sep-2016 03:58:14 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhdieeub/public_html/baogia.php on line 16
+[01-Sep-2016 03:58:16 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhdieeub/public_html/baogia.php on line 16
+[01-Sep-2016 03:58:18 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhdieeub/public_html/baogia.php on line 16
+[01-Sep-2016 03:58:20 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhdieeub/public_html/baogia.php on line 16
+[01-Sep-2016 03:58:22 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhdieeub/public_html/baogia.php on line 16
+[01-Sep-2016 03:58:25 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhdieeub/public_html/baogia.php on line 16
+[01-Sep-2016 03:58:27 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhdieeub/public_html/baogia.php on line 16
+[01-Sep-2016 03:58:30 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhdieeub/public_html/baogia.php on line 16
+[01-Sep-2016 03:58:33 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhdieeub/public_html/baogia.php on line 16
+[01-Sep-2016 03:58:36 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhdieeub/public_html/baogia.php on line 16
+[01-Sep-2016 03:58:39 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhdieeub/public_html/baogia.php on line 16
+[01-Sep-2016 03:58:41 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhdieeub/public_html/baogia.php on line 16
+[01-Sep-2016 03:58:43 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhdieeub/public_html/baogia.php on line 16
+[01-Sep-2016 03:58:52 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhdieeub/public_html/baogia.php on line 16
+[01-Sep-2016 03:58:55 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhdieeub/public_html/baogia.php on line 16
+[01-Sep-2016 03:58:58 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhdieeub/public_html/baogia.php on line 16
+[01-Sep-2016 03:59:02 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhdieeub/public_html/baogia.php on line 16
+[01-Sep-2016 03:59:04 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhdieeub/public_html/baogia.php on line 16
+[01-Sep-2016 03:59:06 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhdieeub/public_html/baogia.php on line 16
+[01-Sep-2016 03:59:09 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhdieeub/public_html/baogia.php on line 16
+[01-Sep-2016 03:59:12 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhdieeub/public_html/baogia.php on line 16
+[01-Sep-2016 03:59:14 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhdieeub/public_html/baogia.php on line 16
+[01-Sep-2016 09:54:15 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhdieeub/public_html/baogia.php on line 16
+[15-Sep-2016 17:06:23 UTC] PHP Warning:  include(baogia.php): failed to open stream: No such file or directory in /home/nhdieeub/public_html/index.php on line 86
+[15-Sep-2016 17:06:23 UTC] PHP Warning:  include(baogia.php): failed to open stream: No such file or directory in /home/nhdieeub/public_html/index.php on line 86
+[15-Sep-2016 17:06:23 UTC] PHP Warning:  include(): Failed opening 'baogia.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/nhdieeub/public_html/index.php on line 86
+[03-Oct-2016 00:19:11 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/nhdieeub/public_html/cauhinh/ketnoi.php on line 42
